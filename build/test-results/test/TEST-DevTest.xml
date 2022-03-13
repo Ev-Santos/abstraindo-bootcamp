@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DevTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-03-13T04:33:27" hostname="LAPTOP-5E0T3FA5" time="0.07">
+  <properties/>
+  <testcase name="testCalcularTotalXp()" classname="DevTest" time="0.049"/>
+  <testcase name="testNome()" classname="DevTest" time="0.001"/>
+  <testcase name="testCalcularTotalXpDevVazio()" classname="DevTest" time="0.0"/>
+  <testcase name="testProgredir()" classname="DevTest" time="0.001"/>
+  <testcase name="testProgredirDevVazio()" classname="DevTest" time="0.007"/>
+  <testcase name="testInscreverBootcamp()" classname="DevTest" time="0.002"/>
+  <testcase name="testConteudosInscritos()" classname="DevTest" time="0.001"/>
+  <testcase name="testHashCode()" classname="DevTest" time="0.0"/>
+  <testcase name="testEquals()" classname="DevTest" time="0.001"/>
+  <testcase name="testConteudosConcluidos()" classname="DevTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[VocÃª nÃ£o estÃ¡ matriculado em nenhum conteÃºdo!
+]]></system-err>
+</testsuite>
